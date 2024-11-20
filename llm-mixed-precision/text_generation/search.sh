@@ -13,7 +13,7 @@ python search.py \
     --qmethod mpl \
     --bitW $BIT --abitW $BIT \
     --source_file ./search_experiment/${SIZE}/mpl_85_m_1/t_${BIT}_0/ \
-    --finetuned True \
+    --finetuned False \
     --bit_search_only False \
     --test_only False
     --port 29518 \
