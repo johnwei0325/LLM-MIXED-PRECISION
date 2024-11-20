@@ -2,6 +2,9 @@ Create conda env
 ```bash
 conda env create -f env.yaml
 ```
+```bash
+conda activate llm
+```
 
 How to implement
 ```bash
