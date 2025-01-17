@@ -28,6 +28,7 @@ python cal_flops.py
 ## 3. Outputs
 如果是只做bit search，結果應該長這這樣：
 ![image](https://github.com/user-attachments/assets/018f084d-c562-458a-8ba6-cafdb969da18)
+<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/018f084d-c562-458a-8ba6-cafdb969da18)" alt="示例圖片" width="300">
 如果是做finetune，應該長這樣：
 ![image](https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e)
 
