@@ -32,11 +32,12 @@ python cal_flops.py
 如果是做finetune，應該長這樣：
 
 <img src="https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e" alt="image" width="400">
+
 ## 4. Implementation (Task - Text Generation)
 ```bash
 cd LLM-MIXED-PRECISION/llm-mixed-precision/text_generation/
 bash search.sh
 ```
 以GPT2為例，在search.sh設定bitw, model, 是否要finetune等，如圖：
-![image](https://github.com/user-attachments/assets/eb4f2207-a28c-45ed-a8c0-da94621cf269)
 
+<img src="https://github.com/user-attachments/assets/eb4f2207-a28c-45ed-a8c0-da94621cf269" alt="image" width="400">
