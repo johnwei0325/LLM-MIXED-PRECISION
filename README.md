@@ -16,7 +16,6 @@ conda activate llm
 程式中使用了 Hugging Face 的 datasets, 包含ptb, wikitext 以及 c4，可使用以下連結下載
 https://huggingface.co/datasets/mindchain/wikitext2
 https://huggingface.co/datasets/longisland3/ptb-xl
-
 https://huggingface.co/datasets/allenai/c4
 ## 3. Outputs
 
