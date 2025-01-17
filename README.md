@@ -30,7 +30,8 @@ python cal_flops.py
 <img src="https://github.com/user-attachments/assets/018f084d-c562-458a-8ba6-cafdb969da18" alt="image" width="500">
 
 如果是做finetune，應該長這樣：
-<img src="https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e" alt="image" width="300">
+
+<img src="https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e" alt="image" width="400">
 ## 4. Implementation (Task - Text Generation)
 ```bash
 cd LLM-MIXED-PRECISION/llm-mixed-precision/text_generation/
