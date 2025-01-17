@@ -4,6 +4,7 @@ TeraQuant is a framework designed to optimize mixed precision quantization for l
 
 ---
 
+# 1. Installation 
 Create conda env
 ```bash
 conda env create -f env.yaml
