@@ -31,7 +31,7 @@ python cal_flops.py
 
 如果是做finetune，應該長這樣：
 
-<img src="https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/4c109b50-75bb-4c09-b836-4ce2f50c7a4e" alt="image" width="350">
 
 ## 4. Implementation (Task - Text Generation)
 ```bash
