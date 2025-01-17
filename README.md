@@ -13,7 +13,7 @@ conda env create -f env.yaml
 conda activate llm
 ```
 ## 2. Datasets
-程式中使用了 Hugging Face 的 datasets, 包含ptb, wikitext 以及 c4，可使用以下連結下載，放在 llm-mixed-precision/text_generation/dataset
+程式中使用了 Hugging Face 的 datasets, 包含ptb, wikitext 以及 c4，可使用以下連結下載，放在 llm-mixed-precision/text_generation/dataset   
 https://huggingface.co/datasets/mindchain/wikitext2   
 https://huggingface.co/datasets/longisland3/ptb-xl   
 https://huggingface.co/datasets/allenai/c4
