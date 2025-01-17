@@ -28,6 +28,7 @@ python cal_flops.py
 ## 3. Outputs
 
 ## 4. Implementation (Task - Text Generation)
+
 ```bash
 cd LLM-MIXED-PRECISION/llm-mixed-precision/text_generation/
 ```
