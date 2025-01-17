@@ -20,8 +20,9 @@ https://huggingface.co/datasets/longisland3/ptb-xl
 https://huggingface.co/datasets/allenai/c4
 
 ### Calculation of flops
+結果已經在flops_calculation 資料夾中了，不須重跑
 ```bash
-cd flops_calculation
+cd LLM-MIXED-PRECISION/llm-mixed-precision/flops_calculation
 python cal_flops.py
 ```
 ## 3. Outputs
